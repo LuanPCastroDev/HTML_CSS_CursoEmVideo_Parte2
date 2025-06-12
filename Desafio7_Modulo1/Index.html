@@ -6,6 +6,15 @@
     <title> Desafio 7 - Módulo 1</title>
 </head>
 <body>
-     
+    <h1> Desafio da Imagem Flexível </h1>
+    <p> Você está vendo a imagem completa? Experimente ampliar o tamanho da sua janela para aproveitar melhor a experiência. &#x1F600;</p>
+    <p> Esta é a imagem do nosso sol. Ele nos mantém vivos e aquecidos. Aumente o tamanho da tela para visualizar toda a vastidão do nosso astro. </p>
+    <p> Contemple a beleza do nosso Sol. </p>
+    <picture> 
+        <source media = "(max-width: 450px)" srcset = "imagens/sol_300px.jpg" type = "image/jpg">
+        <source media = "(max-width: 550px)" srcset = "imagens/sol_500px.jpg" type = "image/jpg">
+        <source media = "(max-width: 1050px)" srcset = "imagens/sol_1000px.jpg" type = "image/jpg">
+        <img src = "imagens/sol.jpg" alt = "imagem fléxivel"> 
+    </picture>   
 </body>
 </html>
