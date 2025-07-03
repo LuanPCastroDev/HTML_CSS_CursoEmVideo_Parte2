@@ -11,6 +11,17 @@ body {
 main {
     background-color: white;
     width: 800px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #200116;
+}
+
+h2 {
+    color:#EF8354;
 }
 p{
     text-align: justify;
