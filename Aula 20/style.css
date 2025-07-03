@@ -4,6 +4,14 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+body {
+    background-image: linear-gradient( to right, #545f66, #BFC0C0) 
+}
+
+main {
+    background-color: white;
+    width: 800px;
+}
 p{
     text-align: justify;
 }
