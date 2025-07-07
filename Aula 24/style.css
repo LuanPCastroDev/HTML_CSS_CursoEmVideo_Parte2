@@ -22,15 +22,18 @@ h2 {
 }
 
 .basico {
-    color: green
+    color: green;
+    font-weight: 300;
 }
 
 .intermediario {
     color:yellow;
+    font-weight: 600;
 }
 
 .avancado {
     color: red;
+    font-weight: 900;
 }
 /*
     Em HTML é "id" => Em CSS é "#"
