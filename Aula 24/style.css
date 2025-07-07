@@ -36,7 +36,7 @@ h2 {
     font-weight: 900;
 }
 /*
-    Em HTML é "id" => Em CSS é "#"
-    Em HTML é "class" => Em CSS é "."
+    Em HTML é "id" => Em CSS é "#" (Somente 1 elemento por documento HTML)
+    Em HTML é "class" => Em CSS é "." (Vários elementos por documento)
     Destro de um documento só posso colocar o "id" uma única vez.
 */
