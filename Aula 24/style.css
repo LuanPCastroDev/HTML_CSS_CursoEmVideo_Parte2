@@ -21,6 +21,17 @@ h2 {
     font-weight: 600;
 }
 
+.basico {
+    color: green
+}
+
+.intermediario {
+    color:yellow;
+}
+
+.avancado {
+    color: red;
+}
 /*
     Em HTML é "id" => Em CSS é "#"
     Em HTML é "class" => Em CSS é "."
