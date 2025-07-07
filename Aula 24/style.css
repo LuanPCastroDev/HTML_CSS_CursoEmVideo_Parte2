@@ -6,11 +6,20 @@ body {
     font-size: 16px;
 }
 
-h1{
+h1 {
     color: #E3D7FF;
 }
 
-h2{
+#principal {
+    text-align: center;
+}
+
+h2 {
     color: #E3D7FF;
     font-weight: 600;
 }
+
+/*
+    Em HTML é "id" => Em CSS é "#"
+    Em HTML é "class" => Em CSS é "."
+*/
