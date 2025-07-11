@@ -12,3 +12,11 @@ header .menu{
     font-family: 'Times New Roman', Times, serif;
     font-size: 16px bold;
 }
+
+main {
+    background-color: rgb(89, 177, 103);
+}
+
+footer {
+    background-color: rgb(10, 93, 24);
+}
