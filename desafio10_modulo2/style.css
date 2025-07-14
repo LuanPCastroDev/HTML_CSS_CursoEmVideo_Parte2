@@ -6,7 +6,16 @@ header {
     color: white;
 }
 
-header .menu{
+#menu {
+    color: white;
+    text-align: left;
+}
+
+body {
+    justify-content: center;
+}
+
+header .menu {
     text-align: left;
     color: white;
     font-family: 'Times New Roman', Times, serif;
@@ -17,7 +26,7 @@ main {
     background-color: rgb(89, 177, 103);
     width: 1000px;
     align-items: center;
-    text-align: justify;
+    text-align: center;
     padding: 10px;
 }
 
