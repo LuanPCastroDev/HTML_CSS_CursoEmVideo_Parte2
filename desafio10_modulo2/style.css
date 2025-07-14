@@ -4,6 +4,7 @@ header {
     text-align: center;
     background-color: rgb(10, 93, 24);
     color: white;
+    border-radius: 7px;
 }
 
 #menu {
@@ -25,6 +26,7 @@ a:hover {
 }
 body {
     justify-content: center;
+    background-color: rgb(221, 222, 150);
 }
 
 header .menu {
@@ -35,7 +37,8 @@ header .menu {
 }
 
 main {
-    background-color: rgb(89, 177, 103);
+    background-color: rgb(255, 255, 255);
+    color:black;
     width: 1000px;
     align-items: center;
     text-align: center;
