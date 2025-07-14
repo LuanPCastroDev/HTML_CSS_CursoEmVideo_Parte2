@@ -11,6 +11,16 @@ header {
     text-align: left;
 }
 
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: large;
+}
 body {
     justify-content: center;
 }
