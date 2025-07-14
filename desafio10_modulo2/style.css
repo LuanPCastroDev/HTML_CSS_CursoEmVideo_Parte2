@@ -18,6 +18,7 @@ main {
     width: 1000px;
     align-items: center;
     text-align: justify;
+    padding: 10px;
 }
 
 footer {
