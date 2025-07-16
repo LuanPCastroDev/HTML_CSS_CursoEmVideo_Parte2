@@ -10,8 +10,15 @@ header {
 #menu {
     color: white;
     text-align: left;
+    background-color: rgb(133, 187, 142);
+    border-radius: 5px;
+    padding-left: 10px;
 }
 
+.menuprincipal {
+    justify-content: center;
+    align-items: center;
+}
 
 
 a:link {
