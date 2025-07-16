@@ -44,6 +44,7 @@ header .menu {
 }
 
 main {
+    display: flex;
     background-color: rgb(255, 255, 255);
     color:black;
     width: 1000px;
@@ -51,6 +52,7 @@ main {
     text-align: center;
     padding: 10px;
     margin: 5px;
+    border-radius: 5px;
 }
 
 footer {
